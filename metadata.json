@@ -1,0 +1,8 @@
+{
+  "name": "SkySense AI",
+  "description": "Multilingual weather, farming, and weather-safety assistant for India powered by real weather data and NVIDIA Nemotron via Nebius.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
